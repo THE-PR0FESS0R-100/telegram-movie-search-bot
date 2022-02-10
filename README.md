@@ -8,7 +8,7 @@
 
 ### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THE-PR0FESS0R-100/telegram-movie-search-bot)
 
 
 ### Hard Way
